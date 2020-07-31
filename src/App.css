@@ -1,0 +1,12 @@
+.row {
+}
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.heart {
+  width: 25px;
+  height: 25px;
+  margin-top: 125px;
+}
